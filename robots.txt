@@ -1,0 +1,19 @@
+# General settings for all search engines
+User-agent: *
+Allow: /
+
+# Specifically allow AI models to crawl your portfolio
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Direct bots to your sitemap (update the URL below if yours is different)
+Sitemap: https://khaliqueahmed-laraveldeveloper.github.io/KhaliqueAhmed-portfolio/

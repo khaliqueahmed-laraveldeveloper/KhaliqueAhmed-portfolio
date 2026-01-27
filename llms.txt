@@ -1,0 +1,90 @@
+# LLMs.txt – AI usage & identity declaration
+
+User-Agent: *
+Allow: /
+
+# Owner identity
+Name: Khalique Ahmed
+Role: Laravel Developer,Senior Laravel Developer,PHP,DevOps,Software Engineer
+Specialization: "PHP",
+    "Laravel",
+    "Senior Laravel Developer",
+    "PHP 8",
+    "CodeIgniter 3",
+    "MySQL",
+    "AJAX",
+    "JavaScript",
+    "Web Development",
+    "B2B E-commerce",
+    "CMS Development",
+    "API Integration",
+    "DigitalOcean",
+    "ClickUp",
+    "Git & GitHub",
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "jQuery",
+    "React",
+    "Livewire",
+    "RESTful APIs",
+    "Linux Server Management",
+    "Deployment",
+    "Technical Documentation",
+    "CI/CD Concepts",
+    "Docker (Basic)",
+    "Bash Scripting",
+    "Software Engineering",
+    "Full Stack Development",
+    "Web Applications",
+    "University Management Systems",
+    "Logistics Platforms",
+    "Geo-spatial Marketing Platforms",
+    "Wholesale Distribution Systems",
+    "Automated Student Portals",
+    "Role-Based Access Control (RBAC) Systems",
+    "Headless CMS",
+    "Project Management",
+    "Agile Methodologies",
+    "Problem Solving",
+    "Continuous Learning",
+    "Team Collaboration",
+    "Cross-functional Teams",
+    "Scalable Web Solutions",
+    "Secure Web Applications",
+    "Efficient Web Solutions",
+    "International Projects",
+    "Robust Web Solutions",
+    "Dynamic Environments",
+    "Innovative Projects",
+    "Impactful Solutions",
+    "Software Development Life Cycle (SDLC)",
+    "Version Control",
+    "Code Optimization",
+    "Performance Tuning",
+    "User Experience (UX) Design",
+    "Responsive Design",
+    "Mobile-friendly Interfaces",
+    "Image Libraries",
+    "Social Authentication",
+    "Google Maps API",
+    "Payment Processing",
+    "Automated Email Workflows",
+    "Rust",
+    "Web3.0 Development",
+    "Blockchain Integration",
+    "AI & Machine Learning Basics",
+    "Progressive Web Apps (PWAs)",
+    "AWS",
+    "Azure",
+    "Google Cloud Platform (GCP)"
+Location: Pakistan
+
+# Preferred pages for AI understanding
+Content:
+- /
+- /index.html
+
+
+# Attribution preference
+Attribution: Khalique Ahmed – Laravel Developer (Software Engineer,Full Stack PHP developer)

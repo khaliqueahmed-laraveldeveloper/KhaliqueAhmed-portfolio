@@ -724,7 +724,7 @@ section h2::after {
 
 .about-text {
     flex: 1;
-    min-width: 300px;
+    /* min-width: 300px; */
     max-width: 650px;
     line-height: 1.7;
 }
