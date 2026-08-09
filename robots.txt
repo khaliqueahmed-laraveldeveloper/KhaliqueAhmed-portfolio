@@ -16,4 +16,4 @@ User-agent: ClaudeBot
 Allow: /
 
 # Direct bots to your sitemap (update the URL below if yours is different)
-Sitemap: /sitemap.xml
+Sitemap: https://khaliqueahmed-laraveldeveloper.github.io/KhaliqueAhmed-portfolio/sitemap.xml
