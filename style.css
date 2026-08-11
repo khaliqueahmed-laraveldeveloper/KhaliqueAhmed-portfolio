@@ -516,6 +516,7 @@ header nav ul li a:hover::after {
 .tech-logo {
     position: absolute;
     height: auto;
+    border-radius: 10px;
     opacity: 0.7;
     transition: transform 0.3s ease, opacity 0.3s ease;
     z-index: 2;
